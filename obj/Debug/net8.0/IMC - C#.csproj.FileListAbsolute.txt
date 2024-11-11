@@ -1,0 +1,14 @@
+/Users/nicolassantana/Documents/IMC - C#/bin/Debug/net8.0/IMC - C#
+/Users/nicolassantana/Documents/IMC - C#/bin/Debug/net8.0/IMC - C#.deps.json
+/Users/nicolassantana/Documents/IMC - C#/bin/Debug/net8.0/IMC - C#.runtimeconfig.json
+/Users/nicolassantana/Documents/IMC - C#/bin/Debug/net8.0/IMC - C#.dll
+/Users/nicolassantana/Documents/IMC - C#/bin/Debug/net8.0/IMC - C#.pdb
+/Users/nicolassantana/Documents/IMC - C#/obj/Debug/net8.0/IMC - C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolassantana/Documents/IMC - C#/obj/Debug/net8.0/IMC - C#.AssemblyInfoInputs.cache
+/Users/nicolassantana/Documents/IMC - C#/obj/Debug/net8.0/IMC - C#.AssemblyInfo.cs
+/Users/nicolassantana/Documents/IMC - C#/obj/Debug/net8.0/IMC - C#.csproj.CoreCompileInputs.cache
+/Users/nicolassantana/Documents/IMC - C#/obj/Debug/net8.0/IMC - C#.dll
+/Users/nicolassantana/Documents/IMC - C#/obj/Debug/net8.0/refint/IMC - C#.dll
+/Users/nicolassantana/Documents/IMC - C#/obj/Debug/net8.0/IMC - C#.pdb
+/Users/nicolassantana/Documents/IMC - C#/obj/Debug/net8.0/IMC - C#.genruntimeconfig.cache
+/Users/nicolassantana/Documents/IMC - C#/obj/Debug/net8.0/ref/IMC - C#.dll
