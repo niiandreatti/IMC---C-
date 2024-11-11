@@ -11,8 +11,7 @@ namespace IMCApp
             Console.Write("Por favor, insira sua altura (em metros ou centímetros): ");
             double altura = Convert.ToDouble(Console.ReadLine());
 
-            // Converte altura para metros se for digitada em centímetros
-            if (altura > 3) // Se for maior que 3, presume-se que está em centímetros
+            if (altura > 3) 
             {
                 altura /= 100;
             }
